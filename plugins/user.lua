@@ -13,5 +13,9 @@ return {
     "kiyoon/jupynium.nvim",
     lazy = false,
     build = "pip3 install --user .",
+  },
+  {
+    "github/copilot.vim",
+    lazy = false
   }
 }
